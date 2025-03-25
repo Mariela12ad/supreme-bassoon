@@ -10,8 +10,8 @@ import moment from 'moment-timezone'
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-   ['5216671548329', 'Legna', true],
-   ['584120346669', 'ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜', true],
+   ['5215641961070', 'MARIELA', true],
+   ['5219531627349', 'SOSA𒆜', true],
 ]
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -28,12 +28,13 @@ global.languaje = 'Español'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '🌸̸̷̶͟͞꙰𝐒𝐚𝐭𝐨𝐮𝐁𝐨𝐭-𝐌𝐃🌸̸̷̶͟͞꙰ྀ'
-global.botname = '🍇𝐒𝐚𝐭𝐨𝐮𝐁𝐨𝐭-𝐌𝐃🍇'
-global.wm = '🍧𝐒𝐚𝐭𝐨𝐮𝐁𝐨𝐭-𝐌𝐃🍧'
-global.author = 'Legna 🌸'
-global.dev = 'Powered By Legna 🍭'
-global.textbot = '༘🪷⋆𝓜𝓪𝓽𝓼𝓾𝔃𝓪𝓴𝓪𝓞𝓯𝓬౨ৎ⋆˚｡⋆'
+global.packname = '⪛✰ MɎŚŦƗȻ-BÖȚ ✰⪜'
+global.botname = 'MɎŚŦƗȻ-BÖȚ'
+global.wm = 'ৎ୭࠭͢MɎSŦƗȻ-MȻ𓆪͟͞ '
+global.author = 'Made By MɎŚŦƗȻ-BÖȚ𒆜'
+global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ MɎŚŦƗȻ-BÖȚ𒆜'
+global.textbot = 'MɎŚŦƗȻ-BÖȚ • Powered By MɎŚŦƗȻ-BÖȚ𒆜'
+global.etiqueta = 'MɎŚŦƗȻ-BÖȚ𒆜'
 global.vs = '3.0.4'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
